@@ -8,10 +8,14 @@
 
 Neste projeto utilizei um *dataset* resumido do [Airbnb](http://insideairbnb.com/get-the-data.html) para realizar uma análise exploratória dos dados com python.
 
+Caso tenha interesse, publiquei um artigo a respeito deste projeto no [Medium](https://fabiocceruti.medium.com/an%C3%A1lise-dos-dados-do-airbnb-da-cidade-de-lisboa-55cbfb503fbd).
+
+
 Entre em contato em caso de dúvida. Estou sempre à disposição.
 
 * Linkedin: https://www.linkedin.com/in/fabio-ceruti/
 * E-mail: fabiocceruti10@gmail.com
+
 
 Espero que goste! Até breve!
 
